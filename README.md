@@ -16,4 +16,3 @@ I enjoy working across the full development lifecycle — from backend architect
 - 🤖 Interested in Artificial Intelligence, Cloud Computing & Data Engineering
 - 🌱 Always learning and improving my technical skills
 
----
