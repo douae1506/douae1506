@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Douae 👋
 
-<!--
-**douae1506/douae1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Software Engineering Student | Full Stack Developer
 
-Here are some ideas to get you started:
+I am a software engineering student passionate about building scalable web applications, designing clean architectures, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the full development lifecycle — from backend architecture and databases to modern frontend interfaces.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Engineering student in Software Engineering & Distributed Systems
+- 💻 Full Stack Developer focused on modern web technologies
+- 🏗️ Building enterprise management applications
+- 🤖 Interested in Artificial Intelligence, Cloud Computing & Data Engineering
+- 🌱 Always learning and improving my technical skills
+
+---
