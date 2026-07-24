@@ -6,7 +6,7 @@ I am a software engineering student passionate about building scalable web appli
 
 I enjoy working across the full development lifecycle — from backend architecture and databases to modern frontend interfaces.
 
----
+
 
 ## 🚀 About Me
 
